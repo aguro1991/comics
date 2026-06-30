@@ -1,5 +1,3 @@
-Here is a simple flow chart:
-
 ```mermaid
 ---
 displayMode: compact
